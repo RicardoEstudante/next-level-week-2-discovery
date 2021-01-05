@@ -1,0 +1,17 @@
+{
+  "name": "nlw-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RicardoEstudante/next-level-week-2-discovery.git",
+  "author": "Ricardo Carvalho Santos <ricardo2010carvalho@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
